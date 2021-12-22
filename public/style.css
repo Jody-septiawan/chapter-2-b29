@@ -1,0 +1,24 @@
+.navbar {
+    height: 7vh;
+}
+
+.container-form-blog {
+    height: 93vh;
+}
+
+.container-form {
+    width: 450px;
+}
+
+.btn-orange {
+    background-color: orangered;
+}
+
+.text-orange {
+    color: orangered !important;
+}
+
+input, textarea {
+    border: 2px solid rgb(208, 208, 208) !important;
+    background-color: rgb(242, 242, 242) !important;
+}
